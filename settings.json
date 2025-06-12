@@ -31,7 +31,7 @@
       "rotate": true,
 
       "hit": {
-        "enabled": trie,
+        "enabled": true,
         "delay": 1000,
         "attack-mobs": true
       },
